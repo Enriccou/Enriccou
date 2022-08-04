@@ -9,7 +9,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=apprentice&hide_border=true&username=enricco-bertazzo" height="150" alt="languages graph"  />
 </div>
 
-###
+#
 
 <h4 align="left">| Backend_Languagens |</h4>
 
@@ -25,7 +25,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="35" alt="python logo"  />
 </div>
 
-###
+#
 
 <h4 align="left">| Data_Bases |</h4>
 
@@ -37,11 +37,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" width="35" alt="postgresql logo"  />
 </div>
 
-###
+#
 
 <h4 align="left">| Editors/IDES |</h4>
 
-#
+###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" width="35" alt="vscode logo"  />
