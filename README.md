@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=enricco-bertazzo.visitor-badge Views"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=enricco-bertazzo.visitor-badge"  />
 </div>
 
 ###
